@@ -11,7 +11,10 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Arrays;
 import java.util.Optional;
-
+/* 
+        Atilio Almeida Costa 
+        João Victor Crivoi Cesar Souza
+*/
 @WebServlet(name = "saveExchangeRatesServlet",
         urlPatterns = {"/save-exchange-rates-pair"},
         loadOnStartup = 1)
