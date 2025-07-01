@@ -1,0 +1,35 @@
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         version="4.0">
+
+    <servlet>
+        <servlet-name>CustomerServlet</servlet-name>
+        <servlet-class>controller.CustomerServlet</servlet-class>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>CustomerServlet</servlet-name>
+        <url-pattern>/cadastrar-customer</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+    	<servlet-name>SalesmanServlet</servlet-name>
+    	<servlet-class>controller.SalesmanServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+	    <servlet-name>SalesmanServlet</servlet-name>
+	    <url-pattern>/cadastrar-salesman</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+    	<servlet-name>OrderServlet</servlet-name>
+    	<servlet-class>controller.OrderServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+    	<servlet-name>OrderServlet</servlet-name>
+    	<url-pattern>/cadastrar-order</url-pattern>
+	</servlet-mapping>
+    
+
+</web-app>
