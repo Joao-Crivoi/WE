@@ -12,6 +12,12 @@ import java.io.PrintWriter;
 import java.util.Arrays;
 import java.util.Optional;
 
+/* 
+        Atilio Almeida Costa 
+        João Victor Crivoi Cesar Souza
+*/
+
+
 @WebServlet(name = "exchangeRatesServlet",
         urlPatterns = {"/exchange-rate"},
         loadOnStartup = 1)
