@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Bl_Container.Models.BL>
+
+<h2>Lista de BL</h2>
+<a asp-action="Create" class="btn btn-primary mb-2">Novo BL</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Número</th>
+            <th>Consignee</th>
+            <th>Navio</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var bl in Model)
+        {
+            <tr>
+                <td>@bl.ID</td>
+                <td>@bl.Numero</td>
+                <td>@bl.Consignee</td>
+                <td>@bl.Navio</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@bl.ID" class="btn btn-warning btn-sm">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@bl.ID" class="btn btn-danger btn-sm">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

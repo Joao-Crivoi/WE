@@ -1,0 +1,39 @@
+﻿@model Bl_Container.Models.Container
+@{
+    ViewBag.Title = "Novo Container";
+}
+
+<h2>Novo Container</h2>
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label>Número Container</label>
+        <input asp-for="Numero" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Tipo</label>
+        <select asp-for="Tipo" class="form-control">
+            <option value="">-- Selecione --</option>
+            <option value="Dry">Dry</option>
+            <option value="Reefer">Reefer</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Tamanho</label>
+        <select asp-for="Tamanho" class="form-control">
+            <option value="">-- Selecione --</option>
+            <option value="20">20</option>
+            <option value="40">40</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>BL</label>
+        <select asp-for="IDBl" asp-items="ViewBag.BLs" class="form-control">
+            <option value="">-- Selecione um BL --</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Salvar</button>
+</form>
