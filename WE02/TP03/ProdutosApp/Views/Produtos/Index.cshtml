@@ -1,0 +1,37 @@
+﻿@model IEnumerable<ProdutosApp.Models.Produto>
+
+@{
+    ViewData["Title"] = "Lista de Produtos";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Novo Produto</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Preço</th>
+            <th>Quantidade</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model ?? Enumerable.Empty<ProdutosApp.Models.Produto>())
+        {
+            <tr>
+                <td>@item.Nome</td>
+                <td>@item.Preco.ToString("C")</td>
+                <td>@item.QuantidadeEmEstoque</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
