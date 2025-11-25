@@ -1,0 +1,15 @@
+D:\ti\ifsp\WE\WE02\TP04\backend\PhrasesApi\PhraseUtils\bin\Debug\net8.0\PhraseUtils.deps.json
+D:\ti\ifsp\WE\WE02\TP04\backend\PhrasesApi\PhraseUtils\bin\Debug\net8.0\PhraseUtils.runtimeconfig.json
+D:\ti\ifsp\WE\WE02\TP04\backend\PhrasesApi\PhraseUtils\bin\Debug\net8.0\PhraseUtils.dll
+D:\ti\ifsp\WE\WE02\TP04\backend\PhrasesApi\PhraseUtils\bin\Debug\net8.0\PhraseUtils.pdb
+D:\ti\ifsp\WE\WE02\TP04\backend\PhrasesApi\PhraseUtils\obj\Debug\net8.0\PhraseUtils.csproj.AssemblyReference.cache
+D:\ti\ifsp\WE\WE02\TP04\backend\PhrasesApi\PhraseUtils\obj\Debug\net8.0\PhraseUtils.GeneratedMSBuildEditorConfig.editorconfig
+D:\ti\ifsp\WE\WE02\TP04\backend\PhrasesApi\PhraseUtils\obj\Debug\net8.0\PhraseUtils.AssemblyInfoInputs.cache
+D:\ti\ifsp\WE\WE02\TP04\backend\PhrasesApi\PhraseUtils\obj\Debug\net8.0\PhraseUtils.AssemblyInfo.cs
+D:\ti\ifsp\WE\WE02\TP04\backend\PhrasesApi\PhraseUtils\obj\Debug\net8.0\PhraseUtils.csproj.CoreCompileInputs.cache
+D:\ti\ifsp\WE\WE02\TP04\backend\PhrasesApi\PhraseUtils\obj\Debug\net8.0\PhraseUtils.sourcelink.json
+D:\ti\ifsp\WE\WE02\TP04\backend\PhrasesApi\PhraseUtils\obj\Debug\net8.0\PhraseUtils.dll
+D:\ti\ifsp\WE\WE02\TP04\backend\PhrasesApi\PhraseUtils\obj\Debug\net8.0\refint\PhraseUtils.dll
+D:\ti\ifsp\WE\WE02\TP04\backend\PhrasesApi\PhraseUtils\obj\Debug\net8.0\PhraseUtils.pdb
+D:\ti\ifsp\WE\WE02\TP04\backend\PhrasesApi\PhraseUtils\obj\Debug\net8.0\PhraseUtils.genruntimeconfig.cache
+D:\ti\ifsp\WE\WE02\TP04\backend\PhrasesApi\PhraseUtils\obj\Debug\net8.0\ref\PhraseUtils.dll

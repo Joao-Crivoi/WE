@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D55C46D9-1AB8-4824-BC28-F6D030A6FC11}|PhraseUtils\\PhraseUtils.csproj|d:\\ti\\ifsp\\we\\we02\\tp04\\backend\\phrasesapi\\phraseutils\\timeoutchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55C46D9-1AB8-4824-BC28-F6D030A6FC11}|PhraseUtils\\PhraseUtils.csproj|solutionrelative:phraseutils\\timeoutchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318FD571-BB94-4CB8-99F5-5344872729F4}|PhrasesApi\\PhrasesApi.csproj|d:\\ti\\ifsp\\we\\we02\\tp04\\backend\\phrasesapi\\phrasesapi\\controllers\\phrasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318FD571-BB94-4CB8-99F5-5344872729F4}|PhrasesApi\\PhrasesApi.csproj|solutionrelative:phrasesapi\\controllers\\phrasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318FD571-BB94-4CB8-99F5-5344872729F4}|PhrasesApi\\PhrasesApi.csproj|d:\\ti\\ifsp\\we\\we02\\tp04\\backend\\phrasesapi\\phrasesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318FD571-BB94-4CB8-99F5-5344872729F4}|PhrasesApi\\PhrasesApi.csproj|solutionrelative:phrasesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55C46D9-1AB8-4824-BC28-F6D030A6FC11}|PhraseUtils\\PhraseUtils.csproj|d:\\ti\\ifsp\\we\\we02\\tp04\\backend\\phrasesapi\\phraseutils\\phraseformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55C46D9-1AB8-4824-BC28-F6D030A6FC11}|PhraseUtils\\PhraseUtils.csproj|solutionrelative:phraseutils\\phraseformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55C46D9-1AB8-4824-BC28-F6D030A6FC11}|PhraseUtils\\PhraseUtils.csproj|d:\\ti\\ifsp\\we\\we02\\tp04\\backend\\phrasesapi\\phraseutils\\textprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55C46D9-1AB8-4824-BC28-F6D030A6FC11}|PhraseUtils\\PhraseUtils.csproj|solutionrelative:phraseutils\\textprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318FD571-BB94-4CB8-99F5-5344872729F4}|PhrasesApi\\PhrasesApi.csproj|d:\\ti\\ifsp\\we\\we02\\tp04\\backend\\phrasesapi\\phrasesapi\\phrasesapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{318FD571-BB94-4CB8-99F5-5344872729F4}|PhrasesApi\\PhrasesApi.csproj|solutionrelative:phrasesapi\\phrasesapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318FD571-BB94-4CB8-99F5-5344872729F4}|PhrasesApi\\PhrasesApi.csproj|d:\\ti\\ifsp\\we\\we02\\tp04\\backend\\phrasesapi\\phrasesapi\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318FD571-BB94-4CB8-99F5-5344872729F4}|PhrasesApi\\PhrasesApi.csproj|solutionrelative:phrasesapi\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318FD571-BB94-4CB8-99F5-5344872729F4}|PhrasesApi\\PhrasesApi.csproj|d:\\ti\\ifsp\\we\\we02\\tp04\\backend\\phrasesapi\\phrasesapi\\models\\phrase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318FD571-BB94-4CB8-99F5-5344872729F4}|PhrasesApi\\PhrasesApi.csproj|solutionrelative:phrasesapi\\models\\phrase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhrasesApi.http",
+              "DocumentMoniker": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhrasesApi\\PhrasesApi.http",
+              "RelativeDocumentMoniker": "PhrasesApi\\PhrasesApi.http",
+              "ToolTip": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhrasesApi\\PhrasesApi.http",
+              "RelativeToolTip": "PhrasesApi\\PhrasesApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-25T20:20:04.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhrasesApi\\Program.cs",
+              "RelativeDocumentMoniker": "PhrasesApi\\Program.cs",
+              "ToolTip": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhrasesApi\\Program.cs",
+              "RelativeToolTip": "PhrasesApi\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:30:12.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeoutChecker.cs",
+              "DocumentMoniker": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhraseUtils\\TimeoutChecker.cs",
+              "RelativeDocumentMoniker": "PhraseUtils\\TimeoutChecker.cs",
+              "ToolTip": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhraseUtils\\TimeoutChecker.cs",
+              "RelativeToolTip": "PhraseUtils\\TimeoutChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:57:05.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextProcessor.cs",
+              "DocumentMoniker": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhraseUtils\\TextProcessor.cs",
+              "RelativeDocumentMoniker": "PhraseUtils\\TextProcessor.cs",
+              "ToolTip": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhraseUtils\\TextProcessor.cs",
+              "RelativeToolTip": "PhraseUtils\\TextProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:57:04.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhraseFormatter.cs",
+              "DocumentMoniker": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhraseUtils\\PhraseFormatter.cs",
+              "RelativeDocumentMoniker": "PhraseUtils\\PhraseFormatter.cs",
+              "ToolTip": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhraseUtils\\PhraseFormatter.cs",
+              "RelativeToolTip": "PhraseUtils\\PhraseFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:57:03.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Phrase.cs",
+              "DocumentMoniker": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhrasesApi\\Models\\Phrase.cs",
+              "RelativeDocumentMoniker": "PhrasesApi\\Models\\Phrase.cs",
+              "ToolTip": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhrasesApi\\Models\\Phrase.cs",
+              "RelativeToolTip": "PhrasesApi\\Models\\Phrase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:56:57.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhrasesController.cs",
+              "DocumentMoniker": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhrasesApi\\Controllers\\PhrasesController.cs",
+              "RelativeDocumentMoniker": "PhrasesApi\\Controllers\\PhrasesController.cs",
+              "ToolTip": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhrasesApi\\Controllers\\PhrasesController.cs",
+              "RelativeToolTip": "PhrasesApi\\Controllers\\PhrasesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvygAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:56:49.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhrasesApi\\DBContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PhrasesApi\\DBContext\\AppDbContext.cs",
+              "ToolTip": "D:\\ti\\ifsp\\WE\\WE02\\TP04\\backend\\PhrasesApi\\PhrasesApi\\DBContext\\AppDbContext.cs",
+              "RelativeToolTip": "PhrasesApi\\DBContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:53:28.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

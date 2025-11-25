@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "PhrasesApi.Controllers.PhrasesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Phrases",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhrasesApi.Controllers.PhrasesController",
+    "Method": "Create",
+    "RelativePath": "api/Phrases",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "phrase",
+        "Type": "PhrasesApi.Models.Phrase",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhrasesApi.Controllers.PhrasesController",
+    "Method": "Get",
+    "RelativePath": "api/Phrases/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhrasesApi.Controllers.PhrasesController",
+    "Method": "Update",
+    "RelativePath": "api/Phrases/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "phrase",
+        "Type": "PhrasesApi.Models.Phrase",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhrasesApi.Controllers.PhrasesController",
+    "Method": "Delete",
+    "RelativePath": "api/Phrases/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
