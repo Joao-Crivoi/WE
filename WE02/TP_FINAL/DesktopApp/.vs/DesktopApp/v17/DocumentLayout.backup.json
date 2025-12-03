@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ti\\ifsp\\WE\\WE02\\TP_FINAL\\DesktopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D83852E-35F8-4F16-81A0-48E129A9E636}|DesktopApp\\DesktopApp.csproj|d:\\ti\\ifsp\\we\\we02\\tp_final\\desktopapp\\desktopapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D83852E-35F8-4F16-81A0-48E129A9E636}|DesktopApp\\DesktopApp.csproj|solutionrelative:desktopapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D83852E-35F8-4F16-81A0-48E129A9E636}|DesktopApp\\DesktopApp.csproj|D:\\ti\\ifsp\\WE\\WE02\\TP_FINAL\\DesktopApp\\desktopapp\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D83852E-35F8-4F16-81A0-48E129A9E636}|DesktopApp\\DesktopApp.csproj|solutionrelative:desktopapp\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D83852E-35F8-4F16-81A0-48E129A9E636}|DesktopApp\\DesktopApp.csproj|D:\\ti\\ifsp\\WE\\WE02\\TP_FINAL\\DesktopApp\\desktopapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D83852E-35F8-4F16-81A0-48E129A9E636}|DesktopApp\\DesktopApp.csproj|solutionrelative:desktopapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\ti\\ifsp\\WE\\WE02\\TP_FINAL\\DesktopApp\\DesktopApp\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "DesktopApp\\Model\\Usuario.cs",
+              "ToolTip": "D:\\ti\\ifsp\\WE\\WE02\\TP_FINAL\\DesktopApp\\DesktopApp\\Model\\Usuario.cs",
+              "RelativeToolTip": "DesktopApp\\Model\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:45:10.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ti\\ifsp\\WE\\WE02\\TP_FINAL\\DesktopApp\\DesktopApp\\Form1.cs",
+              "RelativeDocumentMoniker": "DesktopApp\\Form1.cs",
+              "ToolTip": "D:\\ti\\ifsp\\WE\\WE02\\TP_FINAL\\DesktopApp\\DesktopApp\\Form1.cs",
+              "RelativeToolTip": "DesktopApp\\Form1.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:36:13.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ti\\ifsp\\WE\\WE02\\TP_FINAL\\DesktopApp\\DesktopApp\\Form1.cs",
+              "RelativeDocumentMoniker": "DesktopApp\\Form1.cs",
+              "ToolTip": "D:\\ti\\ifsp\\WE\\WE02\\TP_FINAL\\DesktopApp\\DesktopApp\\Form1.cs [Design]",
+              "RelativeToolTip": "DesktopApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:32:40.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

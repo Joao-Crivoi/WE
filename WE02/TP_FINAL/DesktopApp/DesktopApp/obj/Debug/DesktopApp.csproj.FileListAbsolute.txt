@@ -1,0 +1,13 @@
+D:\ti\ifsp\WE\WE02\TP_FINAL\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.AssemblyReference.cache
+D:\ti\ifsp\WE\WE02\TP_FINAL\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Form1.resources
+D:\ti\ifsp\WE\WE02\TP_FINAL\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+D:\ti\ifsp\WE\WE02\TP_FINAL\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+D:\ti\ifsp\WE\WE02\TP_FINAL\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+D:\ti\ifsp\WE\WE02\TP_FINAL\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+D:\ti\ifsp\WE\WE02\TP_FINAL\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+D:\ti\ifsp\WE\WE02\TP_FINAL\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+D:\ti\ifsp\WE\WE02\TP_FINAL\DesktopApp\DesktopApp\bin\Debug\Newtonsoft.Json.dll
+D:\ti\ifsp\WE\WE02\TP_FINAL\DesktopApp\DesktopApp\bin\Debug\Newtonsoft.Json.xml
+D:\ti\ifsp\WE\WE02\TP_FINAL\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.Up2Date
+D:\ti\ifsp\WE\WE02\TP_FINAL\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+D:\ti\ifsp\WE\WE02\TP_FINAL\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
